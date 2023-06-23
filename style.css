@@ -150,3 +150,15 @@ section {
     max-height: 300px;
 
 }
+
+body {
+    margin: 0px;
+    padding:0px
+}
+.type1 {
+    width:5%;
+    display:block;
+    margin:0px auto;
+
+
+}
